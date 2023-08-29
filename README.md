@@ -7,6 +7,7 @@ Este é um espaço dedicado ao desenvolvimento web com Next.js, React.js e Tailw
 Sinta-se à vontade para explorar e se inspirar. Este é o lugar onde a paixão pelo desenvolvimento web se encontra com a criatividade das palavras. Aproveite sua estadia no mary-blog!
 
 HOME
+
 ![image](https://github.com/maria-axe/mary-blog/assets/80163994/555312f3-1c52-41f3-bf67-c2d53673e9ce)
 
 Página dos POSTS (poemas)
